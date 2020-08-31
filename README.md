@@ -7,9 +7,7 @@ How to make alias to use in your terminal for macOS Catalina version 10.15.5
 
 1. Go into your home directory 
 
-"""
-cd ~
-""" 
+`cd ~`
 
 2. Check your zsh version 
 
