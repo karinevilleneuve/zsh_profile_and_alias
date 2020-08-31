@@ -7,7 +7,9 @@ How to make alias to use in your terminal for macOS Catalina version 10.15.5
 
 1. Go into your home directory 
 
+"""
 cd ~
+""" 
 
 2. Check your zsh version 
 
@@ -21,9 +23,7 @@ vi ~/.zshrc
 
 4. write the alias you wish to create 
 
-- Exemple : shortcut for a server
-
-- Exemple : shortut to make enable sleep
+- Exemple : shortcut for a server 
 
 
 
