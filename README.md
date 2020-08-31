@@ -22,7 +22,12 @@ How to make alias to use in your terminal for macOS Catalina version 10.15.5
 
     - Exemple : shortcut for a server 
     
- `alias NAMEYOUCHOOSE ='ssh your.servers@adress'`
+ `alias NAMEYOUCHOOSE ='ssh your.servers@adress' `
+ 
+ 
+    - Exemple : to sleep your display 
+    
+ `alias sleepnow="pmset displaysleepnow"` 
 
 
 5. Source your new zsh profile or restart your mac
